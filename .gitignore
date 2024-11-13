@@ -1,1 +1,13 @@
 stock_checker.log
+.env
+.cursorrules
+
+.ipynb_checkpoints/
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
