@@ -11,3 +11,5 @@ stock_checker.log
 *.bmp
 *.tiff
 
+*.log
+*.log.*
